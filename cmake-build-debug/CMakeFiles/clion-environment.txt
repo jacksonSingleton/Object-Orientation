@@ -1,3 +1,3 @@
-ToolSet: 5.0@G:\MinGW
+ToolSet: w64 5.0@C:\Program Files\mingw-w64\x86_64-7.1.0-win32-seh-rt_v5-rev0\mingw64
 Options: 
 CMake: 3.7.2@C:\Users\jsing\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\171.4694.4\bin\cmake\bin\cmake.exe

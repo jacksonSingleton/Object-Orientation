@@ -59,15 +59,15 @@ include CMakeFiles/objectOrientation.dir/flags.make
 CMakeFiles/objectOrientation.dir/main.cpp.obj: CMakeFiles/objectOrientation.dir/flags.make
 CMakeFiles/objectOrientation.dir/main.cpp.obj: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\C++ Projects\objectOrientation\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/objectOrientation.dir/main.cpp.obj"
-	G:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\objectOrientation.dir\main.cpp.obj -c "E:\C++ Projects\objectOrientation\main.cpp"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\objectOrientation.dir\main.cpp.obj -c "E:\C++ Projects\objectOrientation\main.cpp"
 
 CMakeFiles/objectOrientation.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objectOrientation.dir/main.cpp.i"
-	G:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\C++ Projects\objectOrientation\main.cpp" > CMakeFiles\objectOrientation.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\C++ Projects\objectOrientation\main.cpp" > CMakeFiles\objectOrientation.dir\main.cpp.i
 
 CMakeFiles/objectOrientation.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objectOrientation.dir/main.cpp.s"
-	G:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\C++ Projects\objectOrientation\main.cpp" -o CMakeFiles\objectOrientation.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\C++ Projects\objectOrientation\main.cpp" -o CMakeFiles\objectOrientation.dir\main.cpp.s
 
 CMakeFiles/objectOrientation.dir/main.cpp.obj.requires:
 

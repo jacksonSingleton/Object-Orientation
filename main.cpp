@@ -1,4 +1,5 @@
 #include <iostream>
+bool running = true;
 using namespace std;
 class Monk{
     int baseHealth = 365000;
@@ -10,9 +11,7 @@ public:
 
     string specName(){return specialization;}
     Monk(int, int, string, string);
-
 };
-
 Monk::Monk(int stam, int agil, string spec, string name):stamina(stam),
             agility(agil),specialization(spec),monkName(name)
 {
@@ -22,6 +21,9 @@ Monk::Monk(int stam, int agil, string spec, string name):stamina(stam),
     cout << name << "'s current specification is a " << specName() << " monk." << endl;
 }
 int main() {
-    Monk Schwifty1sh0t(5000, 1263, "Windwalker", "Schwifty1sh0t");
+    string input;
+    cout << "What is your Monk's name?" << endl;
+    cin >> input;
+    Monk Schwifty1sh0t(5000, 1263, "Windwalker", input);
     return 0;
 }
